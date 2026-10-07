@@ -44,6 +44,50 @@ LCG provides pathways for practitioners, stakeholders, and community members to 
 
 ---
 
+## Public Repositories
+
+### Lattice Core
+
+Architecture of the Lattice Semantic Nexus.
+
+Repository:
+https://github.com/Lattice-Semantic-Nexus/lattice-core
+
+Website:
+https://latticecore.net
+
+### LSN Foundation
+
+Governance and stewardship of the Lattice Semantic Nexus.
+
+Repository:
+https://github.com/Lattice-Semantic-Nexus/lsn-foundation
+
+Website:
+https://lsn.foundation
+
+### Lattice Research Institute
+
+Independent research and analysis within the Lattice ecosystem.
+
+Repository:
+https://github.com/Lattice-Semantic-Nexus/lattice-research-institute
+
+Website:
+https://lattice.institute
+
+### Lattice Community Groups
+
+Participation and community engagement within the Lattice ecosystem.
+
+Repository:
+https://github.com/Lattice-Semantic-Nexus/lattice-community-groups
+
+Website:
+https://latticegroups.org
+
+---
+
 ## Repository Structure
 
 Repositories within this organisation may belong to one of the four ecosystem components.
