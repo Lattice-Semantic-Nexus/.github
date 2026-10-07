@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="lattice-semantic-nexus-logo.png"></p>
+
 # Lattice Semantic Nexus
 
 The Lattice Semantic Nexus is structured around four distinct but related functions:
